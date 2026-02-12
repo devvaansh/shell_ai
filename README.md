@@ -301,7 +301,7 @@ ID,BlendProperty1,BlendProperty2,...,BlendProperty10
 - **2022:** EV charging station placement
 - **2023:** Biorefinery supply chain optimization
 - **2024:** Fleet decarbonization
-- **2026:** Sustainable aviation fuel blending ✈️🌱
+- **2026:** Sustainable aviation fuel blending 
 
 ### Mission
 Accelerate the transition to a **net-zero future** by developing AI-powered tools that enable:
@@ -309,21 +309,8 @@ Accelerate the transition to a **net-zero future** by developing AI-powered tool
 - Environmental footprint reduction
 - Economic viability of green energy solutions
 
----
 
-## 📄 License & Citation
-
-This project was developed for the Shell.ai Hackathon 2026. If you use this code or approach, please cite:
-
-```
-Shell.ai Hackathon 2026 - Sustainable Aviation Fuel Blending Challenge
-Team: [Your Team Name]
-Score: 83.16 (Public Leaderboard)
-```
-
----
-
-## 🤝 Contributing
+## Contributing
 
 While this is a hackathon submission, suggestions for improvement are welcome:
 1. Enhanced feature engineering techniques
@@ -331,15 +318,6 @@ While this is a hackathon submission, suggestions for improvement are welcome:
 3. Hyperparameter optimization strategies
 4. Domain-specific physical constraints
 
----
-
-## 📞 Contact
-
-For questions or collaboration opportunities:
-- **GitHub Issues:** Open an issue in this repository
-- **Email:** [Your Email]
-
----
 
 <div align="center">
 
