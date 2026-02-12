@@ -14,16 +14,16 @@
 
 ---
 
-## 🎯 Challenge Overview
+##  Challenge Overview
 
 This repository contains the solution for the **Shell.ai Hackathon 2026** focusing on Sustainable Aviation Fuel (SAF) blend properties prediction. The challenge addresses a critical real-world problem: predicting the final properties of complex fuel blends to accelerate the adoption of sustainable aviation fuels.
 
-### 🏆 Achievement
+### Achievement
 - **Public Leaderboard Score:** 83.16
 - **Execution Time:** ~21 minutes
 - **Evaluation Metric:** Mean Absolute Percentage Error (MAPE)
 
-### 🌍 Impact
+###  Impact
 This solution contributes to:
 - Rapid evaluation of thousands of potential blend combinations
 - Identification of optimal recipes maximizing sustainability while meeting specifications
@@ -32,7 +32,7 @@ This solution contributes to:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 shell.ai/
@@ -53,7 +53,7 @@ shell.ai/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1️⃣ Install Dependencies
 ```bash
@@ -78,9 +78,9 @@ python train.py
 **Expected Output:**
 ```
 🔧 Processing target: BlendProperty1
-✅ Completed target 1 with clipping range: [x.xxxx, x.xxxx]
+ Completed target 1 with clipping range: [x.xxxx, x.xxxx]
 ...
-✅ Submission saved as outputs/submission.csv
+ Submission saved as outputs/submission.csv
 ```
 
 ### 4️⃣ Submit Predictions
@@ -88,7 +88,7 @@ Upload `outputs/submission.csv` to the hackathon platform.
 
 ---
 
-## 🧪 Dataset Description
+##  Dataset Description
 
 ### Input Features (55 columns)
 
@@ -185,7 +185,7 @@ lgb_params = {
 
 ---
 
-## 📊 Evaluation Metric
+##  Evaluation Metric
 
 ### Mean Absolute Percentage Error (MAPE)
 
@@ -205,7 +205,7 @@ $$
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```
 numpy>=1.21.0        # Numerical operations
@@ -236,7 +236,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📈 Results & Performance
+##  Results & Performance
 
 ### Leaderboard Performance
 - **Public Score:** 83.16
@@ -251,7 +251,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔍 Exploratory Analysis
+##  Exploratory Analysis
 
 See [notebooks/analysis.ipynb](notebooks/analysis.ipynb) for:
 - Data distribution analysis
@@ -280,7 +280,7 @@ ID,BlendProperty1,BlendProperty2,...,BlendProperty10
 
 ---
 
-## ⚠️ Common Errors to Avoid
+##  Common Errors to Avoid
 
 | Error Code | Description | Solution |
 |------------|-------------|----------|
@@ -291,7 +291,7 @@ ID,BlendProperty1,BlendProperty2,...,BlendProperty10
 
 ---
 
-## 🌟 About Shell.ai Hackathon
+## About Shell.ai Hackathon
 
 **Shell.ai Hackathon 2026** is the sixth edition of Shell's annual competition tackling real-world energy challenges through AI and digital solutions.
 
@@ -318,13 +318,3 @@ While this is a hackathon submission, suggestions for improvement are welcome:
 3. Hyperparameter optimization strategies
 4. Domain-specific physical constraints
 
-
-<div align="center">
-
-**Built with ❤️ for a sustainable future**
-
-*Accelerating the net-zero transition through AI*
-
-</div>
-
-<!-- Updated: June 2025 -->
